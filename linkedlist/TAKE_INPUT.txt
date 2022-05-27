@@ -18,4 +18,5 @@ node *takeinput(){
         }
         cin>>data;
     }
-    return
+    return head;
+}
